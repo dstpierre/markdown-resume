@@ -44,7 +44,7 @@ Oct 2007-present, fully remote
 - Software consulting company building software systems for SMBs.
 - Learning materials (books, online courses).
 
-**Technologies used:** Go, Python, Elm, Elixir, C#, SQL, Docker, TypeScript, event-driven architecture.
+**Technologies used:** Go, Python, Elm, Elixir, C#, SQL, Docker, TypeScript, event-driven architecture, REST API, gRPC.
 
 ### Data integration specialist, Equifax Canada
 
@@ -62,7 +62,7 @@ Jul 2017-Jan 2023, fully remote
 
 - Design, build, and maintain all software and infra.
 - Functional analysis of business requirements and processes.
-- Involved in all acquisition discussions and process with Equifax Canada.
+- Involved in all acquisition discussions and processes with Equifax Canada.
 
 **Technologies used:** Go, C#, TypeScript, SQL, Docker
 
@@ -75,7 +75,7 @@ Apr 2016-Jun 2018, fully remote
 
 **Technologies used:** Go, TypeScript, MongoDB, Docker
 
-### Co-founder and CTO, LeadFule
+### Co-founder and CTO, LeadFuze
 
 Jan 2015-Apr 2016, fully remote
 
@@ -96,7 +96,7 @@ Jan 2001-Oct 2007, Montreal, Québec
 
 ## Projects
 
-**[*go podcast()*](https://gopodcast.dek)** (2021-present)
+**[*go podcast()*](https://gopodcast.dev)** (2021-present)
 
 - Publish a podcast related to Go, software engineering, and the art of system design.
 
